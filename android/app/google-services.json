@@ -1,0 +1,40 @@
+
+{
+  "project_info": {
+    "project_number": "910450354897",
+    "project_id": "phym-98f60",
+    "storage_bucket": "phym-98f60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910450354897:android:734b23085e337024d173f0",
+        "android_client_info": {
+          "package_name": "com.example.pharmacy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910450354897-k4m1ss7u3gvn24a0sofmfrt0s0rpi7vq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAItBnVH0GYq4iYu41bmhmFKu8QV8VnW7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910450354897-k4m1ss7u3gvn24a0sofmfrt0s0rpi7vq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
